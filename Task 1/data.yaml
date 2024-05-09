@@ -1,0 +1,6 @@
+train: /content/weapon-detection-16/train/images
+val: /content/weapon-detection-16/valid/images
+# test: C:/Users/HP/Downloads/dataset/test/images
+
+nc: 3
+names: ["gun", "heavy-weapon", "knife"]
